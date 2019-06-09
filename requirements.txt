@@ -11,7 +11,6 @@ pyasn1==0.1.9
 pycrypto==2.6.1
 pycurl==7.43.0
 pygobject==3.27.0
-python-apt==1.4.0b3
 pyxdg==0.25
 SecretStorage==2.3.1
 six==1.10.0
